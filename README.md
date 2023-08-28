@@ -41,8 +41,9 @@ Diagramme de Transition d'Écran : https://drive.google.com/file/d/1h3NRUO7k8Pgd
 
 
 Capture d'Ecran
+Diagramme ER
 ![Diagramme ER](images/Diagramme%20ER.png)
-
+Diagramme de Transition d'ecran
 ![Diagramme de transition d'ecran](images/Diagramme%20de%20trasition%20d'ecran.png)
 
 Auteurs
